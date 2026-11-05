@@ -10,7 +10,7 @@ A web-based Restaurant Reservation System developed using PHP, MySQL, and MVC ar
 
 ## Installation
 
-1. Copy the project folder to `C:\wamp64\www\restaurant-reservation`.
+1. Open the restaurant-reservation folder and copy it to `C:\wamp64\www\restaurant-reservation`.
 2. Start Apache and MySQL using WAMP Server.
 3. Open phpMyAdmin and import `database/restaurant.sql`.
 4. Import `database/sample_data.sql` if sample data is required (optional).
